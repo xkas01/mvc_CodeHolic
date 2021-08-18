@@ -1,0 +1,16 @@
+{
+  "name": "samandar/mvc_ch",
+  "autoload": {
+    "psr-4": {
+      "Samandar\\MvcCh\\": "src/",
+      "app\\": "./"
+    }
+  },
+  "authors": [
+    {
+      "name": "Abdullayev Samandar",
+      "email": "xkas2001@gmail.com"
+    }
+  ],
+  "require": {}
+}
